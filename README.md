@@ -1,12 +1,12 @@
-# Beginning Coders Bootcamp
-A one week program to introduce the foundations of coding to beginners by creating visual art and animations in openFrameworks. This 5 day session will be open both to incoming SFPC students and anyone who wants to learn to code.
+# Creative Coding Bootcamp
+A three week virtual program to introduce the foundations of coding to beginners by creating visual art and animations in openFrameworks.
 
-## Spring 2020 session, Monday March 23rd – Friday March 27th  
+## Spring 2020 session, Tuesday April 21st – Tuesday May 5th  
 Instructor: [Robby Kraft](http://robbykraft.com/)  
-Teaching Assistant: TBD
-Location: School for Poetic Computation | 155 Bank St, New York, NY 10014  
-Class Time: 10am - 1pm  
-Office Hours: Thursdays 2pm to 4pm (or by appointment)  
+Teaching Assistant: [Ilona Brand](https://theilonabrand.com)
+Location: Virtual video  
+Class Time: Tuesdays & Thursdays, 1pm ~ 3pm
+Office Hours: Approximately 3 hours of Teacher & TA support during the week. Times based on student availability.
 
 During this week students will be coding in C++, learning concepts like variables, memory, and scope; branching, looping, boolean evaluations, and logic; functions, recursion, and events; object-oriented design; and working with media like video, sound, and responding to keyboard and mouse inputs. Students will become competent in Xcode/Visual Studio, GitHub, and openFrameworks.
 
